@@ -9,11 +9,17 @@ Note: We first trimmed the raw data by EDFbrowser and divided it into disease da
 The required environment:
 
 python=3.7 or 3.8
+
 mne_python=0.23.0
+
 pytorch= 1.8.0
+
 pywt
+
 scipy
+
 pandas
+
 sklearn
 
 
